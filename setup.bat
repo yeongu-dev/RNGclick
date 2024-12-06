@@ -1,1 +1,1 @@
-pyinstaller --onefile -w --icon="logo.ico" RNGclick.py
+pyinstaller RNGclick.spec

@@ -3,9 +3,9 @@ Random number generation program for playing online poker, left-click generates 
 
 **Installation**:
 
-Option 1: [**Download**](https://github.com/real-poker/RNGclick/raw/master/RNGclick.exe) the .exe file and run it standalone 
+Option 1: [**Download**](https://github.com/jeff-mcclure/RNGclick/raw/4c6c2e2f3bfa4169446c9c794c24201f036ede18/RNGclick.exe) the .exe file and run it standalone 
 
-Option 2: [**Download**](https://github.com/real-poker/RNGclick/archive/master.zip) the .py file and use command "python RNGclick.py" from the command line, if python is installed on your computer
+Option 2: [**Download**](https://github.com/jeff-mcclure/RNGclick/archive/refs/heads/master.zip) the .py file and use command "python RNGclick.py" from the command line, if python is installed on your computer
 
 **Instructions**:
 
@@ -15,7 +15,7 @@ Option 2: [**Download**](https://github.com/real-poker/RNGclick/archive/master.z
 
 
 **Features**:
-- Uses the cryptographically secure random number generator on your OS
+- Uses the random number generator on your OS
 - Option to generate random integers from 0-99, or 1-100
 - Option to switch green = high roll, red = low roll colour spectrum to green = low roll, red = high roll
 - Option to increase/decrease the font size
